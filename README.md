@@ -47,6 +47,11 @@ resource "docker_container" "nginx" {
   }
 }
 ```
+<img width="1899" height="968" alt="Screenshot 2025-09-25 111557" src="https://github.com/user-attachments/assets/63655eb6-a6f6-4ce5-beb1-b701e1debe6a" />
+
+
+<img width="1909" height="962" alt="Screenshot 2025-09-25 111047" src="https://github.com/user-attachments/assets/9dfd4aa4-fb55-4b01-ac75-a1a26b54c947" />
+
 
 ## How to use
 
